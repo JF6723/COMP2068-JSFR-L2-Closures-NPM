@@ -1,0 +1,14 @@
+{
+  "name": "lesson2",
+  "version": "1.0.0",
+  "description": "Playing with NPM",
+  "main": "closedFunction.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ifotn",
+  "license": "ISC",
+  "dependencies": {
+    "weather-js": "^2.0.0"
+  }
+}
