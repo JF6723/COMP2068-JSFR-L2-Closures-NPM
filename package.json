@@ -2,9 +2,10 @@
   "name": "lesson2",
   "version": "1.0.0",
   "description": "Playing with NPM",
-  "main": "closedFunction.js",
+  "main": "tax.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node tax"
   },
   "author": "ifotn",
   "license": "ISC",
